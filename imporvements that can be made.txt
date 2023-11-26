@@ -1,0 +1,4 @@
+check for uppercase \ lowercase
+allow text input
+mild_fever / high_fever kinda input: should be able to 
+account for typos in text
